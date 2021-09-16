@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+              android:layout_margin="0dp"
+              android:background="@android:color/transparent"
+                android:padding="@dimen/widget_margin">
+
+    <TextClock
+        android:id="@+id/textClock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        android:layout_weight="1"
+        android:autoSizeMaxTextSize="1300sp"
+        android:autoSizeMinTextSize="5sp"
+        android:autoSizeStepGranularity="1sp"
+        android:autoSizeTextType="uniform"
+        android:format12Hour="hh:mm"
+        android:format24Hour="kk:mm"
+        android:gravity="center"
+        android:maxLines="1"
+        android:padding="0dp"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textIsSelectable="false"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:typeface="sans"
+        android:visibility="visible" />
+
+    <TextClock
+        android:id="@+id/textClockDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="0dp"
+        android:layout_weight="0"
+        android:format12Hour="EEE, MMM d, yyyy"
+        android:format24Hour="EEE, MMM d, yyyy"
+        android:gravity="center"
+        android:padding="0dp"
+        android:textColor="@android:color/white"
+        android:textAlignment="center"
+        android:textIsSelectable="false"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:typeface="sans"
+        android:visibility="visible"/>
+
+</LinearLayout>

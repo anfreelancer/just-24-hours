@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <alpha
+        android:duration="10"
+        android:startOffset="1000"
+        android:fromAlpha="1.0"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:toAlpha="0.00"
+        android:repeatMode="reverse"
+        android:repeatCount="infinite"
+        android:fillAfter="true"
+        android:fillEnabled="true"/>
+</set>

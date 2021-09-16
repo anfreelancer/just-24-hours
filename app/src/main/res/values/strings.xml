@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Just 24 Hours Smart</string>
+    <string name="buy" translatable="false">BUY</string>
+    <string name="premium" translatable="false">Premium</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to Just 24 Hours</string>
+    <string name="slide_1_verisonName">Version</string>
+    <string name="slide_1_desc">Swipe to the left to see a few hints on using this app.</string>
+
+    <string name="slide_2_title">Increase Clock Brightness</string>
+    <string name="slide_2_desc">To increase the brightness of the clock, slide you finger up the screen.</string>
+
+    <string name="slide_3_title">Decrease Clock Brightness</string>
+    <string name="slide_3_desc">To decrease the brightness of the clock, slide you finger down the screen.</string>
+
+    <string name="slide_4_title">Invert Clock Brightness</string>
+    <string name="slide_4_desc">To invert the clock brightness, double tap on the screen.</string>
+
+    <string name="slide_5_title">Dismiss Just 24 Hours</string>
+    <string name="slide_5_desc">To exit Just 24 Hours, swipe from left to right quickly.</string>
+
+    <string name="slide_6_title">Just 24 Hours - Version </string>
+    <string name="slide_6_desc">The MIT License
+        \n\n
+        Copyright 2019 - Michael Pardo
+        \n\n
+        Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+        \n\n
+        The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+        \n\n
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+    </string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>

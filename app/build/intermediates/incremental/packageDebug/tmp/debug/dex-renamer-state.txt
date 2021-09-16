@@ -1,0 +1,4 @@
+#Thu Sep 16 21:57:33 ICT 2021
+base.0=C\:\\Users\\pc company\\Desktop\\Freelancer\\16-09-2021\\just-24-hours\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

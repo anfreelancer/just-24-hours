@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pc company/Desktop/Freelancer/16-09-2021/just-24-hours/app/src/main/res/layout/activity_not_premium.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/pc company/Desktop/Freelancer/16-09-2021/just-24-hours/app/src/main/res/layout/activity_shop.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/pc company/Desktop/Freelancer/16-09-2021/just-24-hours/app/src/main/res/layout/activity_splash.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/pc company/Desktop/Freelancer/16-09-2021/just-24-hours/app/src/main/res/layout/activity_the_clock.xml" value="0.35688405797101447" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
